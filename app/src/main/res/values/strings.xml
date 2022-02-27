@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MARVEL</string>
+    <string name="personajes">Personajes</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="series">Series</string>
+    <string name="comics">comics</string>
+    <string name="stories">historias</string>
+    <string name="events">eventos</string>
+    <string name="no_data">No se encontraron datos :(</string>
+    <string name="fav">favorito</string>
+    <string name="fav_msg">Aqui aparecerán tus favoritos :D</string>
+</resources>

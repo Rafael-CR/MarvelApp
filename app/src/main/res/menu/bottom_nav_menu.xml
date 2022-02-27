@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/charactersItem"
+        android:enabled="true"
+        android:icon="@drawable/baseline_list"
+        android:title="@string/personajes" />
+<!--    <item-->
+<!--        android:id="@+id/favItem"-->
+<!--        android:enabled="true"-->
+<!--        android:icon="@drawable/outline_favorite_border_24"-->
+<!--        android:title="@string/favoritos" />-->
+</menu>
